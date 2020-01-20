@@ -7,6 +7,9 @@ typeTableau($montableau1);
 typeTableau($montableau2);
 
 
+triTableau($montableau1);
+triTableau($montableau2)
+
 function typeTableau(array $data)
 {
     $temp = [];
